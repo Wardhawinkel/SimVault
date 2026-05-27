@@ -38,7 +38,7 @@ python -m http.server 8000
 ```
 Open `http://localhost:8000` in Chrome.
 
-## 📁 Projectstructuur
+## Projectstructuur
 
 Assets/
 ├── Scripts/          # Alle C# scripts
@@ -50,7 +50,7 @@ Assets/
 └── WebGLTemplates/
 └── SimVault/     # Aangepaste index.html
 
-## 🔧 Aanpassingen maken
+## Aanpassingen maken
 
 ### Nieuwe fictieve website toevoegen
 1. Maak een nieuw Panel aan in de Scene
@@ -73,11 +73,11 @@ private readonly Dictionary<string, PageInfo> knownPages = new()
 - Alles verdwijnt bij sluiten browser
 - Enige uitzondering: biometric credential ID in localStorage
 
-## 📝 Licentie
+## Licentie
 MIT License — vrij te gebruiken en aanpassen
 
-## 👤 Auteur
+## Auteur
 **Ward Hawinkel** — HOGENT 2025-2026
 
-Begeleider: Gertjan Bosteels
+Promotor: Gertjan Bosteels
 Co-promotor: Thomas Clauwaert
