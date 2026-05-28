@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIStrings_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f3662731b5d8f0f4e80f5ae846fd3780, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18261725184
+    m_Localized: Welcome to SimVault!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127556898816
+    m_Localized: Get started ->
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222096510976
+    m_Localized: Masterpassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292015558656
+    m_Localized: Save to vault
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001419165696
+    m_Localized: Welcome to the simulation browser!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5041314058240
+    m_Localized: Create your SimVault account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8686390726656
+    m_Localized: Get started ->
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17967949271040
+    m_Localized: Go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18043975225344
+    m_Localized: Enter an address...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18928130314240
+    m_Localized: Sign in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19152265531392
+    m_Localized: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19600540160000
+    m_Localized: Sign in to MailSim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20021266599936
+    m_Localized: Email address
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20469864189952
+    m_Localized: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20900086534144
+    m_Localized: Sign in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21089065095168
+    m_Localized: Autofill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21458209984512
+    m_Localized: You've logged in successfully!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21775148371968
+    m_Localized: Create MailSim account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22743097266176
+    m_Localized: Re-enter password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23071364468736
+    m_Localized: Generate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23275639656448
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23552828624896
+    m_Localized: Create an account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23791232864256
+    m_Localized: Account created!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27167618224128
+    m_Localized: Add to cart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27734117699584
+    m_Localized: Log in to ShopSim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28595912953856
+    m_Localized: You have successfully logged in to ShopSim!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28913388212224
+    m_Localized: Create ShopSim account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29145945591808
+    m_Localized: Full name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29857110806528
+    m_Localized: Generate password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30095888338944
+    m_Localized: Save to vault
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30674526130176
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30919154716672
+    m_Localized: Stored in the safe!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31190584905728
+    m_Localized: Page not found!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31532584259584
+    m_Localized: My Password Vault
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31829247381504
+    m_Localized: Sign out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32096386797568
+    m_Localized: Password Generator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32520988774400
+    m_Localized: Copy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32758755479552
+    m_Localized: Use this
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32982852947968
+    m_Localized: Copied!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33259425353728
+    m_Localized: How does password hashing work?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33471447420928
+    m_Localized: "Websites never store your password directly.\nInstead, they generate
+      a hash\u2014a fixed string of characters.\n\nSame input \u2192 always the same
+      hash\nOne letter difference \u2192 completely different hash  \nNo one can
+      deduce the original password from the hash"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33685524697088
+    m_Localized: 'Your password:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34071308390400
+    m_Localized: Create your SimVault account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34858214346752
+    m_Localized: 'Important: Be sure to remember this master password!\nWithout this
+      password, you will lose access to all your passwords.\nWrite it down and keep
+      it in a safe place.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35234682490880
+    m_Localized: Do you already have an account? Log in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35487691296768
+    m_Localized: Sign in to SimVault
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36211116462080
+    m_Localized: Log in using biometrics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36457133363200
+    m_Localized: Don't have an account yet? Sign up below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36879038402560
+    m_Localized: Set up biometric security
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37077265403904
+    m_Localized: Would you like to log in using your fingerprint or a PIN from now
+      on? If so, click "Register biometrics\n \nThis is optional, but it provides
+      extra security compared to just a password!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37269888815104
+    m_Localized: Enroll biometric data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37446125080576
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

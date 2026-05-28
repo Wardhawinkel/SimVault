@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UIStrings Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UIStrings
+  m_TableCollectionNameGuidString: f3662731b5d8f0f4e80f5ae846fd3780
+  m_Entries:
+  - m_Id: 18261725184
+    m_Key: "welkom_titel\t\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127556898816
+    m_Key: aan_de_slag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222096510976
+    m_Key: masterwachtwoord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292015558656
+    m_Key: opslaan_kluis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001419165696
+    m_Key: welkom_tekst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5041314058240
+    m_Key: "master_titel\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8686390726656
+    m_Key: 'btn_aandeslag '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17967949271040
+    m_Key: "go_button\t\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18043975225344
+    m_Key: placeholder_adresbalk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18288104689664
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18928130314240
+    m_Key: "tablogin_tekst\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19152265531392
+    m_Key: "tabregister_tekst\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19600540160000
+    m_Key: maillogin_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20021266599936
+    m_Key: email_placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20469864189952
+    m_Key: "emailpw_placeholder\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20900086534144
+    m_Key: "email_login_btn\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21089065095168
+    m_Key: autofill_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21458209984512
+    m_Key: SuccesspanelEmail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21775148371968
+    m_Key: "Mail_Register_title\t\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22743097266176
+    m_Key: "MailRegConfirmField\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23071364468736
+    m_Key: Generate_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23275639656448
+    m_Key: "Save_btn\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23552828624896
+    m_Key: Account_aanmaken_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23791232864256
+    m_Key: Success_account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27167618224128
+    m_Key: AddToCart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27734117699584
+    m_Key: "ShopLoginTitle\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28595912953856
+    m_Key: "ShopSuccessLoginPanel\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28913388212224
+    m_Key: "RegTitle\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29145945591808
+    m_Key: "RegNameField\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29857110806528
+    m_Key: Generate_wachtwoord_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30095888338944
+    m_Key: SaveToVault_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30674526130176
+    m_Key: "ClearButton_btn\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30919154716672
+    m_Key: "VaultSaved\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31190584905728
+    m_Key: ErrorPage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31532584259584
+    m_Key: VaultTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31829247381504
+    m_Key: "Uitloggen\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32096386797568
+    m_Key: GeneratorTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32520988774400
+    m_Key: Kopieer_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32758755479552
+    m_Key: UsePassword_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32982852947968
+    m_Key: "CopyConfirm\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33259425353728
+    m_Key: HashTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33471447420928
+    m_Key: HashUitleg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33685524697088
+    m_Key: "WachtwoordLabel\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34071308390400
+    m_Key: MasterTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34858214346752
+    m_Key: MasterWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35234682490880
+    m_Key: Already_account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35487691296768
+    m_Key: "LoginTitle\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36211116462080
+    m_Key: BiometricLogin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36457133363200
+    m_Key: SwitchToRegister
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36861971779584
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36879038402560
+    m_Key: BiometricTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37077265403904
+    m_Key: BiometricBody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37269888815104
+    m_Key: BiometricRegister
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37446125080576
+    m_Key: "Overslaan\t"
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6337554880382632145
+  references:
+    version: 2
+    RefIds:
+    - rid: 6337554880382632145
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1779965089493

@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIStrings_nl
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: f3662731b5d8f0f4e80f5ae846fd3780, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18261725184
+    m_Localized: "Welkom bij SimVault!\t\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127556898816
+    m_Localized: Aan de slag ->
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222096510976
+    m_Localized: Masterwachtwoord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292015558656
+    m_Localized: Opslaan in kluis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001419165696
+    m_Localized: "Welkom in de simulatiebrowser!\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5041314058240
+    m_Localized: Maak je SimVault account aan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8686390726656
+    m_Localized: Aan de slag ->
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17967949271040
+    m_Localized: Ga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18043975225344
+    m_Localized: Voer een adres in...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18928130314240
+    m_Localized: Inloggen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19152265531392
+    m_Localized: Registreren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19600540160000
+    m_Localized: Inloggen bij MailSim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20021266599936
+    m_Localized: E-mailadres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20469864189952
+    m_Localized: Wachtwoord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20900086534144
+    m_Localized: Inloggen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21089065095168
+    m_Localized: "Kluis Invullen\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21458209984512
+    m_Localized: Succesvol ingelogd!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21775148371968
+    m_Localized: Account aanmaken bij MailSim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22743097266176
+    m_Localized: "Herhaal wachtwoord\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23071364468736
+    m_Localized: Genereer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23275639656448
+    m_Localized: "Opslaan\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23552828624896
+    m_Localized: Account aanmaken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23791232864256
+    m_Localized: Account aangemaakt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27167618224128
+    m_Localized: In winkelmandje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27734117699584
+    m_Localized: Inloggen bij ShopSim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28595912953856
+    m_Localized: Succesvol ingelogd bij ShopSim!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28913388212224
+    m_Localized: Account aanmaken bij ShopSim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29145945591808
+    m_Localized: Volledige naam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29857110806528
+    m_Localized: "Genereer wachtwoord\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30095888338944
+    m_Localized: Opslaan in kluis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30674526130176
+    m_Localized: "Wis\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30919154716672
+    m_Localized: Opgeslagen in kluis!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31190584905728
+    m_Localized: Pagina niet gevonden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31532584259584
+    m_Localized: Mijn Wachtwoordkluis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31829247381504
+    m_Localized: Uitloggen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32096386797568
+    m_Localized: "Wachtwoordgenerator\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32520988774400
+    m_Localized: Kopieer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32758755479552
+    m_Localized: 'Gebruik dit '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32982852947968
+    m_Localized: Gekopieerd!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33259425353728
+    m_Localized: Hoe werkt wachtwoordhashing?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33471447420928
+    m_Localized: "Websites slaan jouw wachtwoord nooit rechtstreeks op.\nIn plaats
+      daarvan berekenen ze een HASH = een vaste reeks tekens.\n\nDezelfde invoer
+      \u2192 altijd dezelfde hash\n\xC9\xE9n letter verschil \u2192 volledig andere
+      hash  \nVanuit de hash kan niemand het origineel achterhalen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33685524697088
+    m_Localized: 'Jouw wachtwoord:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34071308390400
+    m_Localized: Maak je SimVault account aan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34858214346752
+    m_Localized: 'Belangrijk: onthoud dit masterwachtwoord goed!\nZonder dit wachtwoord
+      verlies je toegang tot al je wachtwoorden.\nSchrijf het op een veilige plaats
+      op.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35234682490880
+    m_Localized: Heb je al een account? Inloggen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35487691296768
+    m_Localized: Inloggen bij SimVault
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36211116462080
+    m_Localized: Inloggen met biometrics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36457133363200
+    m_Localized: Nog geen account? Registreer hieronder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36879038402560
+    m_Localized: Biometrische beveiliging instellen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37077265403904
+    m_Localized: Wil je voortaan inloggen met je vingerafdruk of met een pincode?
+      Klik dan op "Registreer biometrics\n \nDit is optioneel maar zorgt voor extra
+      veiligheid dan enkel een wachtwoord!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37269888815104
+    m_Localized: Registreer biometrics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37446125080576
+    m_Localized: Overslaan
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
