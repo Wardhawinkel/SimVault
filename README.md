@@ -3,7 +3,7 @@
 > Bachelorproef HOGENT — Educatieve simulatie voor beginners
 
 ##  Live demo
-[simvault.netlify.app](https://simvault.netlify.app)
+[simvault app](https://wardhawinkel.github.io/SimVault/))
 
 ## Vereisten
 - Unity 6 (6000.3.x LTS)
